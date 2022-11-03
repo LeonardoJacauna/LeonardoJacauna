@@ -24,13 +24,13 @@ I also have a degree in Software Engineering from the Federal University of Amaz
 
 <div>
   <a href = "mailto:leonardo.jacauna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-jacauna-a72a48138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-jacauna-a72a48138/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" destino="_blank"></a>
  
-  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![ Animação de cobra ](https://github.com/leonardojacauna/leonardojacauna/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
-### 📬 Contact me
+
 
 
 
